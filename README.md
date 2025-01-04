@@ -1,2 +1,3 @@
 # LOCATION
-LOCATION DEVICE USING IP ADDRESS
++Location of the device by inputing IP address 
++C# using .NetFramework 
