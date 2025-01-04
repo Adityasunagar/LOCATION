@@ -1,0 +1,10 @@
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\bin\Debug\LOCATE.exe.config
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\bin\Debug\LOCATE.exe
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\bin\Debug\LOCATE.pdb
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\obj\Debug\LOCATE.csproj.AssemblyReference.cache
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\obj\Debug\LOCATE.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\obj\Debug\LOCATE.csproj.Up2Date
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\obj\Debug\LOCATE.exe
+C:\Users\ADITYA\source\repos\LOCATE\LOCATE\obj\Debug\LOCATE.pdb
